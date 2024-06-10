@@ -7,12 +7,14 @@
 
 This donut chart visualizes the distribution of terrorist attack types globally, showing that 58.41% are bombings/explosions, 30.55% are armed assaults, and 11.04% are assassinations. The data highlights bombings/explosions as the predominant method of attack.
 
+
 2. Sum of Success Rate by Target Type
 
 **<img width="612" alt="Screenshot 2024-03-12 141023" src="https://github.com/aastha10-sahu/Global-Terrorism-Dashboard/assets/152705482/626b919c-0ece-4565-82f6-60d8d06395dc">
 **
 
 This donut chart shows the distribution of terrorism target types, with 45.98% targeting private citizens and property, 28.68% targeting the military, and 25.34% targeting police. Private citizens and property are the most frequently targeted groups.
+
 
 3. Sum of Success Rate by Type of Weapon
 
@@ -21,12 +23,14 @@ This donut chart shows the distribution of terrorism target types, with 45.98% t
 
 This donut chart shows the distribution of weapon types used in terrorist attacks, with 54.07% involving explosives, 36.86% involving firearms, and 9.07% being unknown. Explosives are the most commonly used weapon in these attacks.
 
+
 4. Sum of Success Rate by Country
    
 **<img width="620" alt="Screenshot 2024-03-12 185642" src="https://github.com/aastha10-sahu/Global-Terrorism-Dashboard/assets/152705482/7e491952-345f-4396-a31e-2991864d6d08">
 **
 
 The map displays red circles of varying sizes over different regions, representing the number of recorded terrorist attacks, with the largest clusters in Europe and the Middle East. The circles are concentrated around major cities and population centers, indicating a map of global terrorism records.
+
 
 5. Sum of Success Rate by Region
    
@@ -35,12 +39,14 @@ The map displays red circles of varying sizes over different regions, representi
 
 The bar graph illustrates the total success rates of terrorist attacks across regions, with the Middle East & North Africa displaying the highest success rate, followed by South Asia. Australasia & Oceania exhibits the lowest success rate, indicating significant disparities among regions.
 
+
 6. Sum of Success Rate by Group Name
    
 **<img width="614" alt="Screenshot 2024-03-12 141428" src="https://github.com/aastha10-sahu/Global-Terrorism-Dashboard/assets/152705482/3247d76e-d3f8-4b6a-a361-82ed423240f8">
 **
 
 The line graph illustrates the cumulative success rates of terrorist attacks by different groups. ISIL tops the list with the highest sum of success rates, trailed by the Taliban, while the Islamic State of Pakistan and the People's Liberation Front (ISLPF) exhibit the lowest cumulative success rates.
+
 
 7. Count of Year by Year
    
